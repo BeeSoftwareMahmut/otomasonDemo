@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/otomasonDemo/static/css/main.e2acd6f3.css",
+    "main.js": "/otomasonDemo/static/js/main.a78051d8.js",
+    "index.html": "/otomasonDemo/index.html",
+    "main.e2acd6f3.css.map": "/otomasonDemo/static/css/main.e2acd6f3.css.map",
+    "main.a78051d8.js.map": "/otomasonDemo/static/js/main.a78051d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2acd6f3.css",
+    "static/js/main.a78051d8.js"
+  ]
+}
